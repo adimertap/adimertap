@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJs Framework**
 
-- 🤝 (HIRE ME) I’m looking for job vacancy on **Startup Company**
+- 🤝 (HIRE ME) I'm looking for opportunities to work in startup companies
 
 - 👨‍💻 Excited to create app that impactful to other
 
