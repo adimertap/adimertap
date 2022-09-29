@@ -8,6 +8,8 @@
 
 - 🤝 (HIRE ME) I’m looking for job vacancy on **Startup Company**
 
+- 👨‍💻 Excited to create app that impactful to other
+
 - 👨‍💻 All of my projects are available at [www.adim-portofolio.com](www.adim-portofolio.com)
 
 - 📫 How to reach me **contact.adimertap@gmail.com**
