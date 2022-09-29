@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Adim</h1>
 <h3 align="center">I'm a fresh graduate of information technology at Udayana University 👨🏻‍🎓👨🏻‍🎓 and I like to design and created solid website products according to user needs. Now I am interested and learn the react js tech front-end for user interface improvement to make better user experience.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 💼 I'm currently focusing as a founder and fullstack web developer [Techvibes Freelance Agency](www.adim-portofolio.com)
 
-- 🌱 I’m currently learning **ReactJs Framework**
-
 - 🤝 (HIRE ME) I'm looking for opportunities to work in startup companies
 
-- 👨‍💻 Excited to create app that impactful to other
+- 👨‍💻 I'm Full Stack Web Developer and Excited to create app that impactful to other
+
+- 🌱 I’m currently learning **ReactJs Framework**
 
 - 👨‍💻 All of my projects are available at [www.adim-portofolio.com](www.adim-portofolio.com)
 
