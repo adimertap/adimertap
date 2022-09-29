@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs Framework**
 
-- 👨‍💻 All of my projects are available at [www.adim-portofolio.com](www.adim-portofolio.com)
+- 👨‍💻 All of my projects are available at [www.adimerta.com](www.adimerta.com)
 
 - 📫 How to reach me **contact.adimertap@gmail.com**
 
