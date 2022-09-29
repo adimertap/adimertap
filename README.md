@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adim</h1>
-<h3 align="center">I'm a fresh graduate of information technology at Udayana University 👨🏻‍🎓👨🏻‍🎓 and I like to design and creating solid website products according to user needs. Now I am interested and learn the react js tech front-end for user interface improvement to make better user experience.</h3>
+<h3 align="center">I'm a fresh graduate of information technology at Udayana University 👨🏻‍🎓👨🏻‍🎓 and I like to design and created solid website products according to user needs. Now I am interested and learn the react js tech front-end for user interface improvement to make better user experience.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 💼 I'm currently focusing as a founder and fullstack web developer [Techvibes Freelance Agency](www.adim-portofolio.com)
