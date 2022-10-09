@@ -4,7 +4,7 @@
 
 - 🤝 (HIRE ME) I'm looking for opportunities to work in startup companies
 
-- 👨‍💻 I'm Full Stack Web Developer and Excited to create app that impactful to other
+- 👨‍💻 I'm Front-End Developer and Excited to create app that impactful to other
 
 - 💼 I'm founder of [Techvibes Freelance Agency](www.adim-portofolio.com)
 
