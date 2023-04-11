@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adim</h1>
-<h3 align="center">I'm a fresh graduate of information technology at Udayana University 👨🏻‍🎓👨🏻‍🎓 with 1 year freelance experience as a Full-Stack Web Developer and I like to design and created solid website products according to user needs. Now I am interested and learn the react js tech front-end for user interface improvement to make better user experience.</h3>
+<h3 align="center">I have worked on a variety of projects, ranging from small business websites to large-scale web applications. on various projects, I specialize in building dynamic web applications, I am committed to delivering high-quality work that exceeds my clients' expectations. .</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🤝 (HIRE ME) I'm looking for opportunities to work in freelance area
-
-- 👨‍💻 I'm Web Developer and Excited to create app that impactful to other
-
-- 💼  Check my Work [Techvibes Freelance Agency](www.adim-portofolio.com)
+- 🤝 I am open to new projects and would be happy to discuss your needs further. Contact me today to see how I can help bring your web development project to life.
 
 - 🌱 I’m currently learning **MERN Stack**
 
