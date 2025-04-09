@@ -4,14 +4,10 @@
 
 - 🤝 I am open to new projects and would be happy to discuss your needs further. Contact me today to see how I can help bring your web development project to life.
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [www.adimerta.com](www.adimerta.com)
+- 👨‍💻 All of my projects are available at [www.adimerta.space](www.adimerta.space)
 
 - 📫 How to reach me **contact.adimertap@gmail.com**
-
-- ⚡ Fun fact **I think i have good taste in design and enjoy collaborating with clients**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/i-putu-adi-merta-pratama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adimerta" height="30" width="40" /></a>
